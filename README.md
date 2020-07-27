@@ -1,4 +1,11 @@
-### Hi there 👋
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+
+### Grüetzi 👋
+
+- 🎓 BSc in electronical engineering
+- ❤️ loving to code in Python and C #STM32
+- 🌐 [simonmartin.ch](https://simonmartin.ch)
+
 
 <!--
 **mnemocron/mnemocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
