@@ -3,9 +3,27 @@
 ### Grüetzi 👋
 
 - 🎓 BSc in electronical engineering
-- ❤️ loving to code in Python and C #STM32
+- ❤️ loving to code in Python and C
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
 
+
+
+### What you can find here
+
+##### Airplane stuff ✈️
+
+| [LSZH Movements](https://github.com/mnemocron/LSZHMovements) | [LSGS Movements](https://github.com/mnemocron/LSGSMovements) | [LSZB Movements](https://github.com/mnemocron/LSZBMovements) | [LSZS Movements](https://github.com/mnemocron/LSZSMovements) |
+|:---|:---|:---|:---|
+
+##### Embedded stuff (STM32) 👾
+
+| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [ADS1255](https://github.com/eta-systems/ADS1255) | [MAX5717](https://github.com/eta-systems/MAX5717) | [MAX7313](https://github.com/eta-systems/MAX7313) |
+|:---|:---|:---|:---|:---|
+
+##### Electronic Hardware stuff (KiCad) 💡
+
+| [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
+|:---|:---|
 
 <!--
 **mnemocron/mnemocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
