@@ -17,8 +17,8 @@
 
 ##### Embedded stuff (STM32) 👾
 
-| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [ADS1255](https://github.com/eta-systems/ADS1255) | [MAX5717](https://github.com/eta-systems/MAX5717) | [MAX7313](https://github.com/eta-systems/MAX7313) |
-|:---|:---|:---|:---|:---|
+| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [STM8-Tutorial](https://github.com/mnemocron/STM8-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [ADS1255](https://github.com/eta-systems/ADS1255) | [MAX5717](https://github.com/eta-systems/MAX5717) | [MAX7313](https://github.com/eta-systems/MAX7313) |
+|:---|:---|:---|:---|:---|:---|
 
 ##### Electronic Hardware stuff (KiCad) 💡
 
