@@ -3,6 +3,7 @@
 ### Grüetzi 👋
 
 - 🎓 BSc in electronical engineering
+- 📔 [MSE](https://www.msengineering.ch/de/) student at [FHNW-ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
 - ❤️ loving to code in Python and C
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
 
@@ -12,8 +13,8 @@
 
 ##### Airplane stuff ✈️
 
-| [LSZH Movements](https://github.com/mnemocron/LSZHMovements) | [LSGS Movements](https://github.com/mnemocron/LSGSMovements) | [LSZB Movements](https://github.com/mnemocron/LSZBMovements) | [LSZS Movements](https://github.com/mnemocron/LSZSMovements) |
-|:---|:---|:---|:---|
+| [PlotRTL1090](https://github.com/mnemocron/PlotRTL1090) | [LSZH Movements](https://github.com/mnemocron/LSZHMovements) | [LSGS Movements](https://github.com/mnemocron/LSGSMovements) | [LSZB Movements](https://github.com/mnemocron/LSZBMovements) | [LSZS Movements](https://github.com/mnemocron/LSZSMovements) |
+|:---|:---|:---|:---|:---|
 
 ##### Embedded stuff (STM32) 👾
 
