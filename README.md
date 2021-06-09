@@ -2,12 +2,16 @@
 
 ### Grüetzi 👋
 
+<img src="avatar.png" width="240" height="240" align="right"/>
+
 - 🎓 BSc in electronical engineering
-- 📔 [MSE](https://www.msengineering.ch/de/) student at [FHNW-ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
+- 📔 [MSE](https://www.msengineering.ch/de/) student at FHNW [ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
+- ⚙️ Embedded Software Developer at Université de Genève [GAP](https://www.unige.ch/gap/qic/)
 - ❤️ loving to code in Python and C
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
+- 👤 [LinkedIn](https://www.linkedin.com/in/simon-burkhardt-610b30206/)
 
-
+---
 
 ### What you can find here
 
@@ -18,13 +22,13 @@
 
 ##### Embedded stuff (STM32) 👾
 
-| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [STM8-Tutorial](https://github.com/mnemocron/STM8-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [ADS1255](https://github.com/eta-systems/ADS1255) | [MAX5717](https://github.com/eta-systems/MAX5717) | [MAX7313](https://github.com/eta-systems/MAX7313) |
-|:---|:---|:---|:---|:---|:---|
+| [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [STM8-Tutorial](https://github.com/mnemocron/STM8-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [STM32 Jenkins CI/CD](https://github.com/mnemocron/STM32-JenkinsDemo) | [ADS1255](https://github.com/eta-systems/ADS1255) |
+|:---|:---|:---|:---|:---|
 
 ##### Electronic Hardware stuff (KiCad) 💡
 
-| [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
-|:---|:---|
+| [Nucleo DSP Shield](https://github.com/mnemocron/Nucleo-DSP-Shield) | [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
+|:---|:---|:---|
 
 <!--
 **mnemocron/mnemocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
