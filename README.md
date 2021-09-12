@@ -27,8 +27,8 @@
 
 ##### Electronic Hardware stuff (KiCad) 💡
 
-| [Nucleo DSP Shield](https://github.com/mnemocron/Nucleo-DSP-Shield) | [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
-|:---|:---|:---|
+| [Braille Font for KiCad](https://github.com/mnemocron/Braille_kicad) | [Nucleo DSP Shield](https://github.com/mnemocron/Nucleo-DSP-Shield) | [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
+|:---|:---|:---|:---|
 
 <!--
 **mnemocron/mnemocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
