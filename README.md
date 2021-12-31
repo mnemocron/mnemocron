@@ -6,7 +6,7 @@
 
 - 🎓 BSc in electronical engineering
 - 📔 [MSE](https://www.msengineering.ch/de/) student at FHNW [ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
-- ⚙️ embedded software developer at Université de Genève [GAP](https://www.unige.ch/gap/qic/)
+- 🇸🇪 ESN student at [LiU](https://liu.se/en) / [LiTH](https://www.lith.liu.se/?l=en&sc=true)
 - ❤️ loving to code in Python and C
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
 - 👤 [LinkedIn](https://www.linkedin.com/in/simon-burkhardt-610b30206/)
