@@ -6,9 +6,9 @@
 
 - 🎓 BSc in electronical engineering
 - 📔 [MSE](https://www.msengineering.ch/de/) student at FHNW [ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
-- 🇸🇪 ESN student at [LiU](https://liu.se/en) / [LiTH](https://www.lith.liu.se/?l=en&sc=true)
-- ❤️ loving to code in Python and C
+- ❤️ loving to code in Python, C and VHDL
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
+- 📺 [YouTube](https://www.youtube.com/channel/UCYvKqk7tPVjN6kUkgTeSpOA)
 - 👤 [LinkedIn](https://www.linkedin.com/in/simon-burkhardt-610b30206/)
 
 ---
@@ -24,6 +24,11 @@
 
 | [STM32-Tutorial](https://github.com/mnemocron/STM32-Tutorial) | [STM8-Tutorial](https://github.com/mnemocron/STM8-Tutorial) | [libDaylength](https://github.com/mnemocron/libDaylength) | [STM32 Jenkins CI/CD](https://github.com/mnemocron/STM32-JenkinsDemo) | [ADS1255](https://github.com/eta-systems/ADS1255) |
 |:---|:---|:---|:---|:---|
+
+##### FPGA / VHDL stuff
+
+| [Aurora 64b66b](https://github.com/mnemocron/aurora_64b66b-vhdl-sim) |
+|:---|
 
 ##### Electronic Hardware stuff (KiCad) 💡
 
