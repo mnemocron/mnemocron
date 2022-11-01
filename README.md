@@ -1,15 +1,17 @@
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/uses-git.svg)](https://forthebadge.com)
 
 ### Grüetzi 👋
 
 <img src="avatar.png" width="240" height="240" align="right"/>
 
-- 🎓 BSc in electronical engineering
+- 🎓 BSc in [Electrical and Information Technology](https://www.fhnw.ch/en/degree-programmes/engineering/electrical-and-information-technology)
 - 📔 [MSE](https://www.msengineering.ch/de/) student at FHNW [ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
-- ❤️ loving to code in Python, C and VHDL
+- ❤️ loving to code in C, Python and VHDL
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
 - 📺 [YouTube](https://www.youtube.com/channel/UCYvKqk7tPVjN6kUkgTeSpOA)
 - 👤 [LinkedIn](https://www.linkedin.com/in/simon-burkhardt-610b30206/)
+
+[![mnemocrons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnemocron&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
