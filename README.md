@@ -4,8 +4,8 @@
 
 <img src="avatar.png" width="240" height="240" align="right"/>
 
-- 🎓 BSc in [Electrical and Information Technology](https://www.fhnw.ch/en/degree-programmes/engineering/electrical-and-information-technology)
-- 📔 [MSE](https://www.msengineering.ch/de/) student at FHNW [ISE](https://www.fhnw.ch/en/people/simon-burkhardt)
+- 🎓 MSc in [Electrical and Information Technology](https://www.fhnw.ch/en/degree-programmes/engineering/electrical-and-information-technology)
+- 💼 R&D Engineer specialized in FPGA based in Zürich
 - ❤️ loving to code in C, Python and VHDL
 - 🌐 [simonmartin.ch](https://simonmartin.ch)
 - 📺 [YouTube](https://www.youtube.com/channel/UCYvKqk7tPVjN6kUkgTeSpOA)
@@ -36,18 +36,3 @@
 
 | [Braille Font for KiCad](https://github.com/mnemocron/Braille_kicad) | [Nucleo DSP Shield](https://github.com/mnemocron/Nucleo-DSP-Shield) | [STM32 3D Printer Board](https://github.com/mnemocron/FHNW-Pro4E-FS19T8-3DPrinterBoard-STM32) | [KiCad 3D Export Tutorial](https://github.com/mnemocron/KiCad3DExportTutorial) |
 |:---|:---|:---|:---|
-
-<!--
-**mnemocron/mnemocron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
